@@ -1,0 +1,50 @@
+Virtualization and Hypervisor
+1. What is Virtualization?
+Virtualization is a technology that allows us to create multiple virtual computers (Virtual Machines) on a single physical computer.
+
+It helps to use hardware resources like CPU, RAM, storage, and network efficiently.
+
+Example: Running Windows and Linux on the same physical computer using VirtualBox.
+
+Advantages of Virtualization
+-Reduces hardware costs.
+-Better utilization of resources.
+-Easy backup and recovery.
+-Run multiple operating systems on one machine.
+-Provides isolation between virtual machines.
+
+2. What is a Hypervisor?
+A Hypervisor is software or firmware that creates, manages, and runs Virtual Machines (VMs).
+
+It allows multiple operating systems to run on a single physical machine.
+
+Types of Hypervisors
+Type 1 – Bare Metal Hypervisor
+
+-Runs directly on physical hardware.
+-Does not require a host operating system.
+-Provides better performance.
+-Mostly used in data centers.
+Examples:
+
+-VMware ESXi
+-Microsoft Hyper-V
+-Xen
+Type 2 – Hosted Hypervisor
+
+-Runs on top of an existing operating system.
+-Easy to install and use.
+-Mostly used for learning and testing.
+Examples:
+
+-Oracle VirtualBox
+-VMware Workstation
+-VMware Fusion
+  
+  3. Important Terms
+-Host Machine: The physical computer.
+-Guest OS: Operating system running inside a VM.
+-Virtual Machine (VM): A software-based computer.
+-Hypervisor: Software that manages VMs.
+-CPU: Processor resources allocated to VMs.
+-RAM: Memory allocated to VMs.
