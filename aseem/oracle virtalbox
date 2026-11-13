@@ -1,0 +1,23 @@
+1. What is Oracle VirtualBox?
+Oracle VM VirtualBox is a free and open-source virtualization software developed by Oracle.
+It allows users to run multiple operating systems on a single physical computer without installing them directly on the hardware.
+
+For example, if your computer runs Windows, you can install and run:
+
+-Ubuntu Linux
+-Kali Linux
+-Windows 10
+-Windows 11
+-Other supported operating systems
+
+These operating systems run inside virtual machines (VMs).
+
+2. Features of Oracle VirtualBox
+
+-Free and Open Source: Available without a paid license for its core software.
+-Multiple Operating Systems: Run different operating systems on one computer.
+-Snapshots: Save and restore the state of a virtual machine.
+-Shared Folders: Share files between host and guest operating systems.
+-Networking: Supports different virtual networking modes.
+-USB Support: Allows virtual machines to access supported USB devices.
+-Cross-Platform: Available for Windows, Linux, and macOS hosts.
