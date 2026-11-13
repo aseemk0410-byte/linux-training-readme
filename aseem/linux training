@@ -1,1 +1,41 @@
+1. What is Linux?
+Linux is an open-source operating system based on the Linux kernel.
 
+An operating system (OS) is software that manages computer hardware and software and allows users to interact with a computer.
+
+Examples of operating systems:
+
+-Windows
+-macOS
+-Linux
+
+Linux is free to use, modify, and distribute.
+2. Features of Linux
+-Open Source: Anyone can view and modify its source code.
+-Free: Most Linux distributions are free.
+-Secure: Provides user permissions and security features.
+-Multiuser: Multiple users can use the system.
+-Multitasking: Runs multiple processes simultaneously.
+-Portable: Can run on different hardware platforms.
+-Stable: Widely used for servers and production systems.
+ What is a Linux Distribution?
+A Linux distribution (Distro) is an operating system built using the Linux kernel along with system tools, software, and package managers.
+
+3.Popular Linux distributions:
+
+-Ubuntu
+-Debian
+-Fedora
+-Red Hat Enterprise Linux (RHEL)
+-Kali Linux
+-Linux Mint
+-Arch Linux
+-Rocky Linux
+
+4.Linux Architecture
+Linux architecture has four major layers:
+
+-Hardware – CPU, RAM, hard disk, keyboard.
+-Kernel – Communicates with hardware.
+-Shell – Accepts commands from users.
+-Applications – Programs used by users.
