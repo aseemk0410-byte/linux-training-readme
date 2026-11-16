@@ -1,1 +1,33 @@
+1. Introduction to IT Infrastructure
+IT Infrastructure is the combination of hardware, software, networks, services, and facilities required to operate and manage an organization's IT environment.
 
+Main Components:
+-Hardware – Servers, desktops, laptops, routers, switches.
+-Software – Operating systems, applications, databases.
+-Networking – LAN, WAN, VPN, DNS, DHCP.
+-Storage – HDD, SSD, NAS, SAN.
+-Security – Firewall, antivirus, IAM, encryption.
+-Cloud – AWS, Microsoft Azure, Google Cloud.
+-Data Center – Physical infrastructure used to host IT systems.
+
+2. Computer Hardware
+Hardware refers to the physical components of a computer or IT system.
+
+Important Components:
+-CPU – Processes instructions and performs calculations.
+-RAM – Temporary memory used by running applications.
+-HDD – Traditional magnetic storage.
+-SSD – Faster flash-based storage.
+-Motherboard – Connects all hardware components.
+-NIC – Network Interface Card used for network connectivity.
+-PSU – Provides electrical power.
+
+3. Operating Systems
+An operating system manages hardware and software resources.
+
+Types of Operating Systems:
+-Windows Server
+-Linux
+-Ubuntu
+-Red Hat Enterprise Linux (RHEL)
+-macOS
