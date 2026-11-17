@@ -1,0 +1,31 @@
+1. Introduction to Linux
+Linux is an open-source operating system used in computers, servers, cloud platforms, and networking devices.
+
+Examples of Linux distributions:
+
+-Ubuntu
+-Kali Linux
+-Debian
+-Fedora
+-Red Hat Enterprise Linux (RHEL)
+-Linux Mint
+
+2. Methods of Accessing a Linux System
+There are several ways to access a Linux system.
+
+A. Physical Access
+Directly access the computer using a keyboard, mouse, and monitor.
+
+Log in using a valid username and password.
+
+Access the desktop environment or command-line terminal.
+
+B. Terminal Access
+Open the terminal application.
+
+Execute Linux commands to interact with the operating system.
+
+Manage files, directories, users, and system settings.
+
+C. SSH (Secure Shell) Access
+SSH is a network protocol used to securely access a remote Linux system.
