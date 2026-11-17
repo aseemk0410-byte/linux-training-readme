@@ -1,0 +1,6 @@
+1. Introduction
+Linux provides network commands to configure, manage, and troubleshoot network interfaces.
+
+Two commonly used commands are:
+-ifconfig – Used to view and configure network interfaces.
+-ip – Used to manage network interfaces, IP addresses, routing tables, and network settings.
