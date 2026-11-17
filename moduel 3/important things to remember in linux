@@ -1,0 +1,23 @@
+Important Things to Remember in Linux
+Linux is an open-source operating system widely used in servers, networking, cybersecurity, and system administration. The following notes cover important Linux concepts, commands, and practical points for beginners.
+
+1. Basic Linux Concepts
+-Linux is an open-source operating system.
+-Linux is a multi-user operating system.
+-Linux supports multitasking.
+-Linux is case-sensitive (File.txt and file.txt are different).
+-Everything in Linux is represented as a file.Linux uses a command-line interface (CLI) and graphical user interface (GUI).
+-The root user has administrative privileges.
+
+basics commands:
+-pwd=Shows current directory
+-ls=Lists files and directories
+-ls -l=Displays detailed file information
+-cd=Changes directory
+-mkdir=Creates a directory
+-rmdir=Removes an empty directory
+-touch=Creates an empty file
+-cat=Displays file contents
+-cp=Copies files
+-mv=Moves or renames files
+-rm=Removes files
