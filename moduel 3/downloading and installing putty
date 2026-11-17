@@ -1,0 +1,35 @@
+1. Introduction to PuTTY
+PuTTY is a free and open-source terminal emulator used to connect to remote computers and servers over a network.
+
+It is commonly used to access Linux servers from a Windows computer using the SSH (Secure Shell) protocol.
+
+Main uses of PuTTY:
+-Remotely access Linux systems.
+-Connect to servers using SSH.
+-Execute Linux commands from Windows.
+-Transfer files using related tools such as PSCP and PSFTP.
+-Configure and manage remote network devices.
+
+2. Features of PuTTY
+-Free and open-source software.
+-Supports SSH, Telnet, and Serial connections.
+-Provides secure remote login through SSH.
+-Supports username and password authentication.
+-Supports SSH key authentication.
+-Lightweight and easy to use.
+-Available for Windows and other platforms.
+
+3. System Requirements
+-Windows operating system.
+-Internet connection for downloading.
+-Administrator permission if required for installation.
+-Sufficient storage space.
+
+  4. Steps to Download PuTTY
+-Open a web browser such as Chrome or Edge.
+-Visit the official PuTTY download page: PuTTY Official Download .
+-Find the Package Files section.
+-Select the appropriate Windows installer (usually 64-bit x86).
+-Click the installer link to download the .msi file.
+-Wait until the download is complete.
+  
